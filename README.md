@@ -2,7 +2,8 @@
 
 Data Cleaning & Preprocessing – Titanic Dataset
 
-Steps Performed
+Steps Performed :
+
 1.Imported the Dataset
 
 2.Loaded the Titanic CSV file using pandas.
